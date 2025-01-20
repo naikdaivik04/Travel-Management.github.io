@@ -1,0 +1,6 @@
+Daivik,hotel,belgaum,05/01/2025,10:05,2
+daivik,hotel,panji,22/10/2024,10:10,3
+rohit,hotel,pune,10/5/2024,3:00,3
+Rohit,kotel,pune,07/01/2025,10:20,2
+sanjana,hotel,pune,22/10/2024,10:05,2
+daivik,hotel,virat-hotel,belgaum,12/10/2024,10:20,2
