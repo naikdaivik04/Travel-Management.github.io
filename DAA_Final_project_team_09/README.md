@@ -27,3 +27,15 @@ Languages: C++
 Algorithms: Dijkstra’s, KMP, Graph Traversal (ADJACENT MATRIX), Boyer Moore 
 
 Tools: Graphs, DAA Optimization Techniques
+
+**Impact:** 
+1. Streamlined Travel Planning:
+     Simplifies the process of selecting optimal routes and destinations, saving time and reducing stress for travelers.
+2. Increased Accessibility:
+     Provides better connectivity to remote or less-known destinations, boosting tourism and local economies.     
+3. Safety and Security Assurance:
+     Promotes safe travel through informed decision-making, building trust among users and stakeholders.
+4. Data-Driven Personalization:
+     Offers tailored travel experiences based on user preferences, enhancing satisfaction and creating memorable journeys.
+5. Better Feedback Integration:
+    Improves service quality by incorporating user feedback, fostering loyalty and long-term engagement.
